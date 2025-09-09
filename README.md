@@ -8,27 +8,38 @@ This repository contains Python solutions to basic **competitive programming pro
 
 ## 📂 Repository Structure
 
-/Sheet1/
+### 🔹 ControlStatements/
+Contains problems based on **if-else** and other conditional statements.
 ├── Day.py
 ├── DivBy3Last4.py
 ├── DivBy5&11.py
+├── Grade.py
 └── ...
 
-/Sheet2/
+### 🔹 Loops_With_Conditions/
+Contains problems that combine **loops** (`for`, `while`) with **if-else conditions**.
 ├── CountDigit.py
 ├── EvenNum.py
 ├── InputNum.py
+├── Palindrome.py
+└── ...
+
+### 🔹 Pattern_Problems/
+Contains **pattern printing programs** using nested loops.
+├── Pyramid.py
+├── Triangle.py
+├── Square.py
 └── ...
 
 ## 🚀 How to Run
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/competitive-programming-python.git
+   git clone https://github.com/deecodenow1/competitive-programming-python.git
    cd competitive-programming-python
 2. Navigate to the desired sheet folder:
    ```bash
-   cd Sheet1
+   cd ControlStatements
 4. Run any Python file:
    ```bash
    python Day.py
